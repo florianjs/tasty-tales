@@ -1,0 +1,30 @@
+{
+  "id": "2",
+  "title": "Japanese Ramen Bowl",
+  "description": "Rich and comforting ramen with tender chashu pork, soft-boiled egg, and fresh vegetables in a savory broth.",
+  "cookingTime": 90,
+  "difficulty": "hard",
+  "featured": true,
+  "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=800",
+  "tags": ["Japanese", "Soup", "Noodles"],
+  "rating": 4.9,
+  "reviews": 204,
+  "servings": 2,
+  "ingredients": [
+    "Ramen noodles",
+    "Pork belly",
+    "Eggs",
+    "Green onions",
+    "Nori",
+    "Soy sauce",
+    "Mirin"
+  ],
+  "instructions": [
+    "Prepare the chashu pork",
+    "Make the ramen broth",
+    "Cook soft-boiled eggs",
+    "Prepare toppings",
+    "Cook noodles",
+    "Assemble the bowl"
+  ]
+}

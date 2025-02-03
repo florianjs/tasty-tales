@@ -1,0 +1,28 @@
+{
+  "id": "3",
+  "title": "Fresh Summer Salad",
+  "description": "A light and refreshing salad with mixed greens, avocado, and citrus vinaigrette.",
+  "cookingTime": 15,
+  "difficulty": "easy",
+  "featured": false,
+  "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800",
+  "tags": ["Healthy", "Salad", "Vegan"],
+  "rating": 4.5,
+  "reviews": 89,
+  "servings": 6,
+  "ingredients": [
+    "Mixed greens",
+    "2 Avocado",
+    "Cherry tomatoes",
+    "Cucumber",
+    "Red onion",
+    "Citrus vinaigrette"
+  ],
+  "instructions": [
+    "Wash and dry greens",
+    "Chop vegetables",
+    "Make vinaigrette",
+    "Combine ingredients",
+    "Toss with dressing"
+  ]
+}

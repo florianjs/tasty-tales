@@ -1,0 +1,30 @@
+{
+  "id": "1",
+  "title": "Classic Margherita Pizza",
+  "description": "A traditional Italian pizza with fresh basil, mozzarella, and tomato sauce on a perfectly crispy crust.",
+  "cookingTime": 45,
+  "difficulty": "medium",
+  "featured": true,
+  "image": "https://images.unsplash.com/photo-1604068549290-dea0e4a305ca?w=800",
+  "tags": ["Italian", "Pizza", "Vegetarian"],
+  "rating": 4.8,
+  "reviews": 127,
+  "servings": 4,
+  "ingredients": [
+    "Pizza dough",
+    "100g San Marzano tomatoes",
+    "1 Fresh mozzarella",
+    "Fresh basil",
+    "30g Olive oil",
+    "Salt"
+  ],
+  "instructions": [
+    { "instruction": "Preheat oven to 500°F (260°C)", "timer": 1 },
+    { "instruction": "Roll out the pizza dough", "timer": 5 },
+    "Spread tomato sauce",
+    "Add fresh mozzarella",
+    "Bake for 12-15 minutes",
+    "Top with fresh basil"
+  ],
+  "notes": "Make sure to use San Marzano tomatoes for a more flavorful sauce."
+}

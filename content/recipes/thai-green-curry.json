@@ -1,0 +1,29 @@
+{
+  "id": "5",
+  "title": "Thai Green Curry",
+  "description": "Aromatic and spicy Thai curry with coconut milk, vegetables, and your choice of protein.",
+  "cookingTime": 35,
+  "difficulty": "medium",
+  "featured": false,
+  "image": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?w=800",
+  "tags": ["Thai", "Curry", "Spicy"],
+  "rating": 4.7,
+  "reviews": 178,
+  "servings": 4,
+  "ingredients": [
+    "Green curry paste",
+    "Coconut milk",
+    "Chicken or tofu",
+    "Thai eggplant",
+    "Bamboo shoots",
+    "Thai basil"
+  ],
+  "instructions": [
+    "Cook curry paste",
+    "Add coconut milk",
+    "Add protein",
+    "Simmer with vegetables",
+    "Season to taste",
+    "Garnish with basil"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "4",
+  "title": "Chocolate Lava Cake",
+  "description": "Decadent chocolate dessert with a gooey molten center, served with vanilla ice cream.",
+  "cookingTime": 25,
+  "difficulty": "medium",
+  "featured": true,
+  "image": "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?w=800",
+  "tags": ["Dessert", "Chocolate", "Baking"],
+  "rating": 4.9,
+  "reviews": 156,
+  "servings": 2,
+  "ingredients": [
+    "300g Dark chocolate",
+    "Butter",
+    "Eggs",
+    "Sugar",
+    "Flour",
+    "Vanilla extract"
+  ],
+  "instructions": [
+    "Melt chocolate and butter",
+    "Mix wet ingredients",
+    "Fold in dry ingredients",
+    "Pour into ramekins",
+    "Bake until edges are set"
+  ]
+}
