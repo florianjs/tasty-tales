@@ -20,7 +20,12 @@ export default defineNuxtConfig({
     '@nuxtjs/google-fonts',
     '@nuxtjs/color-mode',
   ],
-
+  content: {
+    database: {
+      type: 'd1',
+      binding: '<YOUR_BINDING_NAME>',
+    },
+  },
   googleFonts: {
     families: {
       'Playfair+Display': [400, 600, 700],
