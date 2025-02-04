@@ -18,7 +18,6 @@ export default defineNuxtConfig({
     '@pinia/nuxt',
     '@nuxt/icon',
     '@nuxtjs/google-fonts',
-    '@nuxtjs/color-mode',
   ],
   content: {
     database: {
