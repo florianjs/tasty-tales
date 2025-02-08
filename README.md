@@ -10,7 +10,7 @@
 
 A modern, feature-rich recipe platform built with Nuxt 3, Vue 3, and TailwindCSS. Perfect for culinary enthusiasts, food bloggers, and recipe creators.
 
-[Demo](https://tastytales.0xexile.com/) · [Report Bug](https://github.com/yourusername/tastytales/issues) · [Request Feature](https://github.com/yourusername/tastytales/issues)
+[Demo](https://tastytales.0xexile.com/) · [Report Bug](https://github.com/florianjs/tasty-tales/issues) · [Request Feature](https://github.com/florianjs/tasty-tales/issues)
 
 </div>
 
